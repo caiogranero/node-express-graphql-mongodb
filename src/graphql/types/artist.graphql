@@ -1,0 +1,4 @@
+type Artist {
+  id: String,
+  name: String
+}

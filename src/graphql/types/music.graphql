@@ -1,0 +1,6 @@
+type Music {
+  id: String,
+  name: String,
+  time: String
+  artist: Artist
+}

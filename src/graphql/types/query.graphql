@@ -1,0 +1,8 @@
+type Query {
+  users: [User],
+  user(id: ID): User,
+  music(id: ID): Music,
+  musics: [Music],
+  artist(id: ID): Artist,
+  artists: [Artist]
+} 
